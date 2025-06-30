@@ -1,4 +1,4 @@
-EaseEDA file for the DBE hardware design. 
+EasyEDA file for the DBE hardware design. 
 
 See the FreeCAD project for the enclosure
 
